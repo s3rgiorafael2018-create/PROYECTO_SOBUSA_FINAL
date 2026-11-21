@@ -85,7 +85,7 @@ TRUST_PROXY=0
 # Usuarios del dashboard: JSON con hashes bcrypt, no contraseñas en texto plano.
 # Generar un hash bcrypt con el procedimiento documentado en el proyecto.
 AUTH_USERS='{"usuario": "HASH_BCRYPT_GENERADO"}'
-# puede usar AUTH_USERS='{"isaac": "$2b$12$FkFyPMBSghhOkzFJeW0f3.bRBAdYjNatICi6X2MUYrxG8YyP6Kn9m"}'
+# puede usar AUTH_USERS='{"isaac": "$2b$12$FkFyPMBSghhOkzFJeW0f3.bRBAdYjNatICi6X2MUYrxG8YyP6Kn9m"}' este es el usuario y contraseña predeterminado del DASH
 # Datos locales
 DATA_SOURCE=local
 DATA_DIR=data
