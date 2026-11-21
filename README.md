@@ -1,5 +1,7 @@
 # DASHv3 — Instalación y ejecución con Docker
 
+Link de la documentación: https://romeromendozacarlosisaac-pixel.github.io/SOBUSA-EXTREME/
+
 Esta guía describe cómo preparar el proyecto desde cero, configurar las variables de entorno, disponer de los datos y levantar los servicios Dash y FastAPI mediante Docker Compose.
 
 ## 1. Requisitos
