@@ -1,0 +1,133 @@
+{
+  "filas_carga": 494362,
+  "segmentos_ruta": 128,
+  "offset_id_segmento": 1683,
+  "longitud_total_m": 63902.0,
+  "tramos_pico": [
+    {
+      "nro_segmento": 91,
+      "desde_m": 45000,
+      "hasta_m": 45500,
+      "viajes": 622,
+      "carga": 64
+    },
+    {
+      "nro_segmento": 34,
+      "desde_m": 16500,
+      "hasta_m": 17000,
+      "viajes": 506,
+      "carga": 60
+    },
+    {
+      "nro_segmento": 35,
+      "desde_m": 17000,
+      "hasta_m": 17500,
+      "viajes": 446,
+      "carga": 61
+    },
+    {
+      "nro_segmento": 92,
+      "desde_m": 45500,
+      "hasta_m": 46000,
+      "viajes": 434,
+      "carga": 59
+    },
+    {
+      "nro_segmento": 33,
+      "desde_m": 16000,
+      "hasta_m": 16500,
+      "viajes": 385,
+      "carga": 61
+    },
+    {
+      "nro_segmento": 93,
+      "desde_m": 46000,
+      "hasta_m": 46500,
+      "viajes": 328,
+      "carga": 64
+    },
+    {
+      "nro_segmento": 109,
+      "desde_m": 54000,
+      "hasta_m": 54500,
+      "viajes": 327,
+      "carga": 71
+    },
+    {
+      "nro_segmento": 90,
+      "desde_m": 44500,
+      "hasta_m": 45000,
+      "viajes": 319,
+      "carga": 59
+    },
+    {
+      "nro_segmento": 108,
+      "desde_m": 53500,
+      "hasta_m": 54000,
+      "viajes": 306,
+      "carga": 78
+    },
+    {
+      "nro_segmento": 107,
+      "desde_m": 53000,
+      "hasta_m": 53500,
+      "viajes": 284,
+      "carga": 71
+    }
+  ],
+  "viajes": 4649,
+  "pico_carga": {
+    "mediana": 25,
+    "p75": 35,
+    "p90": 45,
+    "p95": 50,
+    "p99": 58,
+    "max": 121
+  },
+  "carga_final_por_viaje": {
+    "mediana": 1,
+    "media": 1.09,
+    "p05": -10,
+    "p95": 12
+  },
+  "carga_minima_por_viaje": {
+    "mediana": -3,
+    "p05": -15
+  },
+  "viajes_con_carga_negativa": 3619,
+  "laborables_cobertura_90": {
+    "viajes": 3140,
+    "pico_p50": 29.0,
+    "pico_p95": 51.0,
+    "pico_max": 121
+  },
+  "flota_n_sentados": [
+    {
+      "tipo_vehiculo": 1,
+      "buses": 157,
+      "sentados_med": 33.8,
+      "sentados_min": 20,
+      "sentados_max": 47
+    },
+    {
+      "tipo_vehiculo": 2,
+      "buses": 128,
+      "sentados_med": 32.5,
+      "sentados_min": 20,
+      "sentados_max": 43
+    },
+    {
+      "tipo_vehiculo": 24,
+      "buses": 33,
+      "sentados_med": 29.7,
+      "sentados_min": 29,
+      "sentados_max": 33
+    }
+  ],
+  "flota_sentados_global": {
+    "media": 32.7,
+    "min": 20,
+    "max": 47,
+    "buses": 318
+  }
+}

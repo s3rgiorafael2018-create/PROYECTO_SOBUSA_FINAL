@@ -1,0 +1,90 @@
+{
+  "ruta": "14 15 (idruta 2)",
+  "entrenado_con": "2025-01-01 .. 2025-08-30",
+  "objetivo_modelo": "tweedie",
+  "salida": "pasajeros POR VIAJE en el nodo (exp(raw)); pasajeros/hora = salida * viajes HISTORICOS de esa hora",
+  "horizonte_dias": 7,
+  "rezagos_dias": [
+    7,
+    14,
+    21,
+    28
+  ],
+  "features": [
+    "idpunto",
+    "pos_rel",
+    "hora",
+    "dow",
+    "hora_sin",
+    "hora_cos",
+    "dow_sin",
+    "dow_cos",
+    "es_festivo",
+    "es_prefestivo",
+    "es_carnaval",
+    "doy_sin",
+    "doy_cos",
+    "lag_7d",
+    "lag_14d",
+    "lag_21d",
+    "lag_28d",
+    "lag_364d",
+    "lag_media",
+    "nivel_nodo_7d"
+  ],
+  "categorias_idpunto": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    35,
+    127,
+    221
+  ],
+  "hiperparametros": {
+    "objective": "tweedie",
+    "num_leaves": 49,
+    "max_depth": 7,
+    "min_child_samples": 27,
+    "feature_fraction": 0.6195411805468185,
+    "bagging_fraction": 0.9455819320943845,
+    "lambda_l1": 2.29192926074237,
+    "lambda_l2": 0.003925698561591801,
+    "tweedie_variance_power": 1.3160397028889177,
+    "learning_rate": 0.03,
+    "bagging_freq": 1
+  },
+  "n_arboles": 200,
+  "fecha_inicio_test": "2025-07-01",
+  "rezago_anual_dias": 364,
+  "metricas_walk_forward_test": [
+    {
+      "modelo": "LightGBM (WF)",
+      "MAE": 0.2368,
+      "RMSE": 0.4753,
+      "PoissonDev": 0.3293,
+      "MAE_conteo": 1.6337
+    },
+    {
+      "modelo": "B1 media nodo-hora-tipodia (WF)",
+      "MAE": 0.259,
+      "RMSE": 0.4861,
+      "PoissonDev": 0.3565,
+      "MAE_conteo": 1.8264
+    },
+    {
+      "modelo": "N7 valor de hace 7 días (WF)",
+      "MAE": 0.3068,
+      "RMSE": 0.622,
+      "PoissonDev": 1.9227,
+      "MAE_conteo": 2.1784
+    }
+  ]
+}

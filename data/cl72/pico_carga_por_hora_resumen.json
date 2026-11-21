@@ -1,0 +1,163 @@
+{
+  "filas": 3464,
+  "dias_laborables_2023": 39,
+  "por_hora": [
+    {
+      "hora": 4,
+      "viajes": 100,
+      "subidas_med_viaje": 76.1,
+      "pico_p50": 29.0,
+      "pico_p90": 47.0,
+      "pico_p95": 51.099999999999994,
+      "pico_max": 59.0
+    },
+    {
+      "hora": 5,
+      "viajes": 497,
+      "subidas_med_viaje": 72.2,
+      "pico_p50": 25.0,
+      "pico_p90": 48.0,
+      "pico_p95": 52.199999999999974,
+      "pico_max": 76.0
+    },
+    {
+      "hora": 6,
+      "viajes": 272,
+      "subidas_med_viaje": 98.9,
+      "pico_p50": 39.5,
+      "pico_p90": 51.900000000000006,
+      "pico_p95": 54.0,
+      "pico_max": 60.0
+    },
+    {
+      "hora": 7,
+      "viajes": 230,
+      "subidas_med_viaje": 93.3,
+      "pico_p50": 31.0,
+      "pico_p90": 46.0,
+      "pico_p95": 49.54999999999999,
+      "pico_max": 88.0
+    },
+    {
+      "hora": 8,
+      "viajes": 204,
+      "subidas_med_viaje": 96.9,
+      "pico_p50": 29.0,
+      "pico_p90": 42.7,
+      "pico_p95": 46.0,
+      "pico_max": 69.0
+    },
+    {
+      "hora": 9,
+      "viajes": 191,
+      "subidas_med_viaje": 90.2,
+      "pico_p50": 23.0,
+      "pico_p90": 38.0,
+      "pico_p95": 40.0,
+      "pico_max": 61.0
+    },
+    {
+      "hora": 10,
+      "viajes": 180,
+      "subidas_med_viaje": 87.8,
+      "pico_p50": 22.0,
+      "pico_p90": 41.0,
+      "pico_p95": 45.0,
+      "pico_max": 121.0
+    },
+    {
+      "hora": 11,
+      "viajes": 187,
+      "subidas_med_viaje": 78.3,
+      "pico_p50": 19.0,
+      "pico_p90": 36.0,
+      "pico_p95": 40.0,
+      "pico_max": 45.0
+    },
+    {
+      "hora": 12,
+      "viajes": 198,
+      "subidas_med_viaje": 97.2,
+      "pico_p50": 26.0,
+      "pico_p90": 45.300000000000004,
+      "pico_p95": 49.14999999999999,
+      "pico_max": 78.0
+    },
+    {
+      "hora": 13,
+      "viajes": 224,
+      "subidas_med_viaje": 95.6,
+      "pico_p50": 29.0,
+      "pico_p90": 47.7,
+      "pico_p95": 51.84999999999999,
+      "pico_max": 59.0
+    },
+    {
+      "hora": 14,
+      "viajes": 208,
+      "subidas_med_viaje": 108.3,
+      "pico_p50": 37.0,
+      "pico_p90": 52.0,
+      "pico_p95": 54.0,
+      "pico_max": 83.0
+    },
+    {
+      "hora": 15,
+      "viajes": 170,
+      "subidas_med_viaje": 111.5,
+      "pico_p50": 37.0,
+      "pico_p90": 51.0,
+      "pico_p95": 53.54999999999999,
+      "pico_max": 66.0
+    },
+    {
+      "hora": 16,
+      "viajes": 194,
+      "subidas_med_viaje": 101.0,
+      "pico_p50": 29.0,
+      "pico_p90": 44.0,
+      "pico_p95": 51.349999999999994,
+      "pico_max": 68.0
+    },
+    {
+      "hora": 17,
+      "viajes": 184,
+      "subidas_med_viaje": 82.4,
+      "pico_p50": 23.0,
+      "pico_p90": 38.0,
+      "pico_p95": 41.0,
+      "pico_max": 74.0
+    },
+    {
+      "hora": 18,
+      "viajes": 176,
+      "subidas_med_viaje": 64.1,
+      "pico_p50": 21.0,
+      "pico_p90": 37.0,
+      "pico_p95": 44.0,
+      "pico_max": 52.0
+    },
+    {
+      "hora": 19,
+      "viajes": 162,
+      "subidas_med_viaje": 52.8,
+      "pico_p50": 19.0,
+      "pico_p90": 36.70000000000001,
+      "pico_p95": 40.0,
+      "pico_max": 55.0
+    },
+    {
+      "hora": 20,
+      "viajes": 87,
+      "subidas_med_viaje": 58.4,
+      "pico_p50": 21.0,
+      "pico_p90": 39.2,
+      "pico_p95": 45.39999999999999,
+      "pico_max": 71.0
+    }
+  ],
+  "subidas_dia_promedio_2023": 7721.5,
+  "dias_con_datos": 39,
+  "subidas_dia_conteo_2023": 7778.9,
+  "factor_timbradas_vs_conteo": 0.9926
+}

@@ -1,0 +1,1459 @@
+{
+  "ruta": "14 15 (ruta 2)",
+  "idruta": 2,
+  "radio_busqueda_m": 400.0,
+  "ventana": {
+    "inicio": "2025-01-01",
+    "fin_exclusivo": "2025-09-01"
+  },
+  "fuentes": {
+    "direcciones": "Nominatim / OpenStreetMap (reverse geocoding)",
+    "lugares": "Overpass API (OpenStreetMap)"
+  },
+  "nota": "Nombres y cobertura dependen de lo que OSM tenga mapeado en la zona. Un punto sin lugar destacado a 400 m solo tiene direccion. Subidas/bajadas/lecturas salen de conteo_pasajeros_destino en la ventana indicada.",
+  "puntos_sin_lugares_overpass": [],
+  "contexto": [
+    {
+      "rank": 1,
+      "idpunto": 5,
+      "lat": 10.946912,
+      "lon": -74.775765,
+      "subidas": 21385,
+      "bajadas": 22574,
+      "total": 43959,
+      "pct_total": 15.39,
+      "pct_acum": 15.39,
+      "lecturas": 91896,
+      "seg_aprox": 113,
+      "contexto": {
+        "direccion": "Boulevard Simón Bolívar, Simón Bolívar, Barranquilla",
+        "calle": "Boulevard Simón Bolívar",
+        "numero": null,
+        "barrio": "Simón Bolívar",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Restaurante Bolivar",
+          "tipo": "restaurant",
+          "distancia_m": 20,
+          "lat": 10.9470492,
+          "lon": -74.7758862
+        },
+        {
+          "nombre": "Tienda/panadería/carnicería",
+          "tipo": "convenience",
+          "distancia_m": 24,
+          "lat": 10.9469076,
+          "lon": -74.7759862
+        },
+        {
+          "nombre": "Carnes & carnes Santacruz",
+          "tipo": "butcher",
+          "distancia_m": 30,
+          "lat": 10.947167,
+          "lon": -74.7758467
+        },
+        {
+          "nombre": "Restaurante La Jade China",
+          "tipo": "restaurant",
+          "distancia_m": 37,
+          "lat": 10.9467391,
+          "lon": -74.7754718
+        },
+        {
+          "nombre": "Droguería La Barata/ Spa/Carnicería",
+          "tipo": "chemist",
+          "distancia_m": 42,
+          "lat": 10.9467332,
+          "lon": -74.7761082
+        },
+        {
+          "nombre": "Estadero Punto Cervecero",
+          "tipo": "bar",
+          "distancia_m": 45,
+          "lat": 10.9465429,
+          "lon": -74.7755925
+        },
+        {
+          "nombre": "Super Ferreteria Samir",
+          "tipo": "hardware",
+          "distancia_m": 66,
+          "lat": 10.9475015,
+          "lon": -74.7758085
+        },
+        {
+          "nombre": "Hotel Libertador VIP",
+          "tipo": "hotel",
+          "distancia_m": 72,
+          "lat": 10.9464889,
+          "lon": -74.7762685
+        },
+        {
+          "nombre": "Preescolar",
+          "tipo": "jardín infantil",
+          "distancia_m": 84,
+          "lat": 10.9469504,
+          "lon": -74.7765373
+        },
+        {
+          "nombre": "Estanco y estadero El Vacile",
+          "tipo": "alcohol",
+          "distancia_m": 86,
+          "lat": 10.9463099,
+          "lon": -74.7762584
+        },
+        {
+          "nombre": "Super Efectivo",
+          "tipo": "pawnbroker",
+          "distancia_m": 96,
+          "lat": 10.9462361,
+          "lon": -74.7763114
+        },
+        {
+          "nombre": "Puerta de Oro",
+          "tipo": "hardware",
+          "distancia_m": 98,
+          "lat": 10.9477813,
+          "lon": -74.7756448
+        }
+      ],
+      "destacado": {
+        "nombre": "Hotel Libertador VIP",
+        "tipo": "hotel",
+        "distancia_m": 72,
+        "lat": 10.9464889,
+        "lon": -74.7762685
+      }
+    },
+    {
+      "rank": 2,
+      "idpunto": 35,
+      "lat": 11.019139,
+      "lon": -74.866646,
+      "subidas": 26177,
+      "bajadas": 17613,
+      "total": 43790,
+      "pct_total": 15.33,
+      "pct_acum": 30.72,
+      "lecturas": 153775,
+      "seg_aprox": 75,
+      "contexto": {
+        "direccion": "Carrera 30, Ciudad del Mar",
+        "calle": "Carrera 30",
+        "numero": null,
+        "barrio": "Ciudad del Mar",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Fundación Universitaria San Martin",
+          "tipo": "universidad",
+          "distancia_m": 129,
+          "lat": 11.0202721,
+          "lon": -74.8663935
+        },
+        {
+          "nombre": "Burger King",
+          "tipo": "fast_food",
+          "distancia_m": 185,
+          "lat": 11.0186287,
+          "lon": -74.8650344
+        },
+        {
+          "nombre": "Salvator's Pizza",
+          "tipo": "restaurant",
+          "distancia_m": 188,
+          "lat": 11.0186234,
+          "lon": -74.8650008
+        },
+        {
+          "nombre": "Pikoriko",
+          "tipo": "fast_food",
+          "distancia_m": 194,
+          "lat": 11.0186222,
+          "lon": -74.8649439
+        },
+        {
+          "nombre": "Bancolombia",
+          "tipo": "banco",
+          "distancia_m": 198,
+          "lat": 11.0186249,
+          "lon": -74.8649067
+        },
+        {
+          "nombre": "Subway",
+          "tipo": "fast_food",
+          "distancia_m": 204,
+          "lat": 11.0186168,
+          "lon": -74.864859
+        },
+        {
+          "nombre": "Subarashi",
+          "tipo": "restaurant",
+          "distancia_m": 208,
+          "lat": 11.0186182,
+          "lon": -74.8648148
+        },
+        {
+          "nombre": "Los Dibujantes",
+          "tipo": "craft",
+          "distancia_m": 211,
+          "lat": 11.0186214,
+          "lon": -74.8647819
+        },
+        {
+          "nombre": "Biblos",
+          "tipo": "restaurant",
+          "distancia_m": 215,
+          "lat": 11.0186164,
+          "lon": -74.864747
+        },
+        {
+          "nombre": "Kid's Club",
+          "tipo": "jardín infantil",
+          "distancia_m": 216,
+          "lat": 11.0183771,
+          "lon": -74.8648225
+        },
+        {
+          "nombre": "Dulcerna",
+          "tipo": "pastry",
+          "distancia_m": 216,
+          "lat": 11.0184048,
+          "lon": -74.8648091
+        },
+        {
+          "nombre": "Tostao’",
+          "tipo": "cafe",
+          "distancia_m": 217,
+          "lat": 11.0184211,
+          "lon": -74.8647972
+        }
+      ],
+      "destacado": {
+        "nombre": "Fundación Universitaria San Martin",
+        "tipo": "universidad",
+        "distancia_m": 129,
+        "lat": 11.0202721,
+        "lon": -74.8663935
+      }
+    },
+    {
+      "rank": 3,
+      "idpunto": 221,
+      "lat": 10.899066,
+      "lon": -74.803083,
+      "subidas": 17543,
+      "bajadas": 23994,
+      "total": 41537,
+      "pct_total": 14.54,
+      "pct_acum": 45.26,
+      "lecturas": 90499,
+      "seg_aprox": 128,
+      "contexto": {
+        "direccion": "Avenida Murillo, Los Loteros, Soledad",
+        "calle": "Avenida Murillo",
+        "numero": null,
+        "barrio": "Los Loteros",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "C.C. Plaza Macondo",
+          "tipo": "centro comercial",
+          "distancia_m": 196,
+          "lat": 10.9005499,
+          "lon": -74.8021121
+        },
+        {
+          "nombre": "Parque Los Loteros",
+          "tipo": "park",
+          "distancia_m": 207,
+          "lat": 10.9009269,
+          "lon": -74.8029806
+        },
+        {
+          "nombre": "Centro de Capacitación Especial (CENCAES)",
+          "tipo": "colegio",
+          "distancia_m": 287,
+          "lat": 10.9016433,
+          "lon": -74.8032035
+        },
+        {
+          "nombre": "Tienda Terranova 2",
+          "tipo": "convenience",
+          "distancia_m": 374,
+          "lat": 10.9020228,
+          "lon": -74.8014593
+        },
+        {
+          "nombre": "I.E. - El Llamado De Jesus",
+          "tipo": "colegio",
+          "distancia_m": 381,
+          "lat": 10.8984823,
+          "lon": -74.7996438
+        }
+      ],
+      "destacado": {
+        "nombre": "C.C. Plaza Macondo",
+        "tipo": "centro comercial",
+        "distancia_m": 196,
+        "lat": 10.9005499,
+        "lon": -74.8021121
+      }
+    },
+    {
+      "rank": 4,
+      "idpunto": 9,
+      "lat": 11.026755,
+      "lon": -74.868097,
+      "subidas": 16486,
+      "bajadas": 15238,
+      "total": 31724,
+      "pct_total": 11.11,
+      "pct_acum": 56.37,
+      "lecturas": 67518,
+      "seg_aprox": 71,
+      "contexto": {
+        "direccion": "Calle 14, Villa Norte, La Playa",
+        "calle": "Calle 14",
+        "numero": null,
+        "barrio": "Villa Norte",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "IED Pies Descalzos y Centro Comunitario La Playa",
+          "tipo": "colegio",
+          "distancia_m": 208,
+          "lat": 11.0286219,
+          "lon": -74.8679963
+        },
+        {
+          "nombre": "Ferretería Cristina",
+          "tipo": "hardware",
+          "distancia_m": 287,
+          "lat": 11.0288617,
+          "lon": -74.8665713
+        },
+        {
+          "nombre": "IED - El Cañahuate",
+          "tipo": "colegio",
+          "distancia_m": 312,
+          "lat": 11.0277469,
+          "lon": -74.8707662
+        },
+        {
+          "nombre": "Constructora Grama - Sala de Ventas",
+          "tipo": "company",
+          "distancia_m": 363,
+          "lat": 11.0247018,
+          "lon": -74.8655119
+        }
+      ],
+      "destacado": {
+        "nombre": "IED Pies Descalzos y Centro Comunitario La Playa",
+        "tipo": "colegio",
+        "distancia_m": 208,
+        "lat": 11.0286219,
+        "lon": -74.8679963
+      }
+    },
+    {
+      "rank": 5,
+      "idpunto": 7,
+      "lat": 10.975048,
+      "lon": -74.801123,
+      "subidas": 12118,
+      "bajadas": 15672,
+      "total": 27790,
+      "pct_total": 9.73,
+      "pct_acum": 66.1,
+      "lecturas": 53095,
+      "seg_aprox": 99,
+      "contexto": {
+        "direccion": "Carrera 27, Los Andes, Barranquilla",
+        "calle": "Carrera 27",
+        "numero": null,
+        "barrio": "Los Andes",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "IED - Para el Desarrollo del Talento Humano",
+          "tipo": "colegio",
+          "distancia_m": 70,
+          "lat": 10.9750937,
+          "lon": -74.8004826
+        },
+        {
+          "nombre": "Clínica General del Norte - Promoción y Prevención",
+          "tipo": "clínica",
+          "distancia_m": 111,
+          "lat": 10.9740722,
+          "lon": -74.8013524
+        },
+        {
+          "nombre": "Baloncesto",
+          "tipo": "pitch",
+          "distancia_m": 134,
+          "lat": 10.9761728,
+          "lon": -74.8006725
+        },
+        {
+          "nombre": "Oh la la",
+          "tipo": "hairdresser",
+          "distancia_m": 145,
+          "lat": 10.975242,
+          "lon": -74.8024401
+        },
+        {
+          "nombre": "Parque Santo Domingo Sabio",
+          "tipo": "park",
+          "distancia_m": 174,
+          "lat": 10.9765036,
+          "lon": -74.8005451
+        },
+        {
+          "nombre": "IED Andrés Bello",
+          "tipo": "colegio",
+          "distancia_m": 212,
+          "lat": 10.9731625,
+          "lon": -74.8014034
+        },
+        {
+          "nombre": "Campo de Beisbol",
+          "tipo": "pitch",
+          "distancia_m": 214,
+          "lat": 10.9768292,
+          "lon": -74.8003752
+        },
+        {
+          "nombre": "IED - Los Pinos",
+          "tipo": "colegio",
+          "distancia_m": 243,
+          "lat": 10.9745586,
+          "lon": -74.7989509
+        },
+        {
+          "nombre": "La Esquina De Carramba",
+          "tipo": "restaurant",
+          "distancia_m": 246,
+          "lat": 10.9728376,
+          "lon": -74.8010003
+        },
+        {
+          "nombre": "Cancha Los Pinos",
+          "tipo": "pitch",
+          "distancia_m": 251,
+          "lat": 10.9742761,
+          "lon": -74.7989644
+        },
+        {
+          "nombre": "IED - Salvador Suarez Suarez - Sede 2",
+          "tipo": "colegio",
+          "distancia_m": 262,
+          "lat": 10.9739825,
+          "lon": -74.7989826
+        },
+        {
+          "nombre": "IED - La Merced",
+          "tipo": "colegio",
+          "distancia_m": 267,
+          "lat": 10.9772403,
+          "lon": -74.8001266
+        }
+      ],
+      "destacado": {
+        "nombre": "IED - Para el Desarrollo del Talento Humano",
+        "tipo": "colegio",
+        "distancia_m": 70,
+        "lat": 10.9750937,
+        "lon": -74.8004826
+      }
+    },
+    {
+      "rank": 6,
+      "idpunto": 6,
+      "lat": 10.953716,
+      "lon": -74.795309,
+      "subidas": 9304,
+      "bajadas": 10360,
+      "total": 19664,
+      "pct_total": 6.88,
+      "pct_acum": 72.98,
+      "lecturas": 40934,
+      "seg_aprox": 28,
+      "contexto": {
+        "direccion": "Carrera 14, La Victoria, Barranquilla",
+        "calle": "Carrera 14",
+        "numero": null,
+        "barrio": "La Victoria",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "CAI - Ambiental",
+          "tipo": "policía",
+          "distancia_m": 86,
+          "lat": 10.9529909,
+          "lon": -74.7955804
+        },
+        {
+          "nombre": "Pista de BMX",
+          "tipo": "track",
+          "distancia_m": 146,
+          "lat": 10.952406,
+          "lon": -74.7954298
+        },
+        {
+          "nombre": "Clínica la Victoria",
+          "tipo": "clínica",
+          "distancia_m": 160,
+          "lat": 10.9550024,
+          "lon": -74.7959674
+        },
+        {
+          "nombre": "IED - Maria Cano",
+          "tipo": "colegio",
+          "distancia_m": 191,
+          "lat": 10.9522492,
+          "lon": -74.7943944
+        },
+        {
+          "nombre": "Cancha de Futbol",
+          "tipo": "pitch",
+          "distancia_m": 211,
+          "lat": 10.9518541,
+          "lon": -74.795699
+        },
+        {
+          "nombre": "Restaurante Bélgica",
+          "tipo": "restaurant",
+          "distancia_m": 294,
+          "lat": 10.9556129,
+          "lon": -74.7934348
+        },
+        {
+          "nombre": "Ecocaribe Centro Médico",
+          "tipo": "clínica",
+          "distancia_m": 310,
+          "lat": 10.9565045,
+          "lon": -74.7954047
+        },
+        {
+          "nombre": "Comidas rapida napolitana",
+          "tipo": "fast_food",
+          "distancia_m": 315,
+          "lat": 10.9557676,
+          "lon": -74.7933158
+        },
+        {
+          "nombre": "Jardín Botanico",
+          "tipo": "park",
+          "distancia_m": 345,
+          "lat": 10.9509959,
+          "lon": -74.796837
+        },
+        {
+          "nombre": "Bancolombia",
+          "tipo": "banco",
+          "distancia_m": 354,
+          "lat": 10.9519545,
+          "lon": -74.7980131
+        },
+        {
+          "nombre": "Restaurante carbon killero",
+          "tipo": "restaurant",
+          "distancia_m": 355,
+          "lat": 10.9569108,
+          "lon": -74.7952506
+        }
+      ],
+      "destacado": {
+        "nombre": "Clínica la Victoria",
+        "tipo": "clínica",
+        "distancia_m": 160,
+        "lat": 10.9550024,
+        "lon": -74.7959674
+      }
+    },
+    {
+      "rank": 7,
+      "idpunto": 3,
+      "lat": 10.906552,
+      "lon": -74.800317,
+      "subidas": 3764,
+      "bajadas": 10605,
+      "total": 14369,
+      "pct_total": 5.03,
+      "pct_acum": 78.01,
+      "lecturas": 52591,
+      "seg_aprox": 126,
+      "contexto": {
+        "direccion": "Avenida Murillo, Nuevo Milenio, Soledad",
+        "calle": "Avenida Murillo",
+        "numero": null,
+        "barrio": "Nuevo Milenio",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "AgrupaSalud IPS",
+          "tipo": "clínica",
+          "distancia_m": 71,
+          "lat": 10.9068296,
+          "lon": -74.7997271
+        },
+        {
+          "nombre": "Tienda la Fama",
+          "tipo": "convenience",
+          "distancia_m": 78,
+          "lat": 10.9058752,
+          "lon": -74.8005128
+        },
+        {
+          "nombre": "Tienda Donde Chepe",
+          "tipo": "convenience",
+          "distancia_m": 102,
+          "lat": 10.9060212,
+          "lon": -74.7995596
+        },
+        {
+          "nombre": "Portal de Soledad",
+          "tipo": "terminal de buses",
+          "distancia_m": 119,
+          "lat": 10.9074528,
+          "lon": -74.8009035
+        },
+        {
+          "nombre": "Tienda Los Primos",
+          "tipo": "convenience",
+          "distancia_m": 125,
+          "lat": 10.9060478,
+          "lon": -74.7992939
+        },
+        {
+          "nombre": "Tienda El Punto Económico",
+          "tipo": "convenience",
+          "distancia_m": 145,
+          "lat": 10.9052765,
+          "lon": -74.8000316
+        },
+        {
+          "nombre": "Tienda virgen Del Carmen",
+          "tipo": "convenience",
+          "distancia_m": 163,
+          "lat": 10.905152,
+          "lon": -74.7998699
+        },
+        {
+          "nombre": "DollarCity",
+          "tipo": "general",
+          "distancia_m": 177,
+          "lat": 10.9056764,
+          "lon": -74.801667
+        },
+        {
+          "nombre": "Tienda La Esperanza De La 63",
+          "tipo": "convenience",
+          "distancia_m": 185,
+          "lat": 10.9052964,
+          "lon": -74.7992109
+        },
+        {
+          "nombre": "EDS El portal",
+          "tipo": "fuel",
+          "distancia_m": 199,
+          "lat": 10.9049565,
+          "lon": -74.8011409
+        },
+        {
+          "nombre": "Tienda Los Paisas Torre 16",
+          "tipo": "convenience",
+          "distancia_m": 206,
+          "lat": 10.9077135,
+          "lon": -74.7988529
+        },
+        {
+          "nombre": "Tienda Milenaria",
+          "tipo": "convenience",
+          "distancia_m": 213,
+          "lat": 10.9053592,
+          "lon": -74.798793
+        }
+      ],
+      "destacado": {
+        "nombre": "AgrupaSalud IPS",
+        "tipo": "clínica",
+        "distancia_m": 71,
+        "lat": 10.9068296,
+        "lon": -74.7997271
+      }
+    },
+    {
+      "rank": 8,
+      "idpunto": 11,
+      "lat": 11.010083,
+      "lon": -74.827093,
+      "subidas": 10064,
+      "bajadas": 3133,
+      "total": 13197,
+      "pct_total": 4.62,
+      "pct_acum": 82.63,
+      "lecturas": 20092,
+      "seg_aprox": 84,
+      "contexto": {
+        "direccion": "Calle 96, El Poblado, Barranquilla",
+        "calle": "Calle 96",
+        "numero": null,
+        "barrio": "El Poblado",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Bolera la Moñona",
+          "tipo": "bowling_alley",
+          "distancia_m": 117,
+          "lat": 11.0104008,
+          "lon": -74.8260679
+        },
+        {
+          "nombre": "Iglesia Vida Abundante",
+          "tipo": "iglesia",
+          "distancia_m": 144,
+          "lat": 11.0105738,
+          "lon": -74.8258712
+        },
+        {
+          "nombre": "Carulla",
+          "tipo": "supermarket",
+          "distancia_m": 156,
+          "lat": 11.0100818,
+          "lon": -74.8256676
+        },
+        {
+          "nombre": "Hotel Movich Buró 51",
+          "tipo": "hotel",
+          "distancia_m": 179,
+          "lat": 11.0102422,
+          "lon": -74.8254648
+        },
+        {
+          "nombre": "Clinialergias",
+          "tipo": "clínica",
+          "distancia_m": 186,
+          "lat": 11.0107645,
+          "lon": -74.8286516
+        },
+        {
+          "nombre": "Centro Comercial Millenium",
+          "tipo": "centro comercial",
+          "distancia_m": 192,
+          "lat": 11.0116498,
+          "lon": -74.8278319
+        },
+        {
+          "nombre": "Ildo Muebles",
+          "tipo": "furniture",
+          "distancia_m": 198,
+          "lat": 11.0108123,
+          "lon": -74.8287454
+        },
+        {
+          "nombre": "Atlantis Suites Travelers",
+          "tipo": "hotel",
+          "distancia_m": 221,
+          "lat": 11.0120628,
+          "lon": -74.8272225
+        },
+        {
+          "nombre": "Alkosto",
+          "tipo": "department_store",
+          "distancia_m": 236,
+          "lat": 11.011729,
+          "lon": -74.828452
+        },
+        {
+          "nombre": "Sushi Market",
+          "tipo": "restaurant",
+          "distancia_m": 239,
+          "lat": 11.0121709,
+          "lon": -74.8276018
+        },
+        {
+          "nombre": "Dunkin'",
+          "tipo": "fast_food",
+          "distancia_m": 243,
+          "lat": 11.0120105,
+          "lon": -74.8281434
+        },
+        {
+          "nombre": "Luxury Plaza",
+          "tipo": "centro comercial",
+          "distancia_m": 243,
+          "lat": 11.012254,
+          "lon": -74.8273468
+        }
+      ],
+      "destacado": {
+        "nombre": "Hotel Movich Buró 51",
+        "tipo": "hotel",
+        "distancia_m": 179,
+        "lat": 11.0102422,
+        "lon": -74.8254648
+      }
+    },
+    {
+      "rank": 9,
+      "idpunto": 12,
+      "lat": 11.004031,
+      "lon": -74.820378,
+      "subidas": 8834,
+      "bajadas": 2964,
+      "total": 11798,
+      "pct_total": 4.13,
+      "pct_acum": 86.77,
+      "lecturas": 25059,
+      "seg_aprox": 87,
+      "contexto": {
+        "direccion": "Carrera 49C, Granadillo, Barranquilla",
+        "calle": "Carrera 49C",
+        "numero": "84-201",
+        "barrio": "Granadillo",
+        "tipo_via": "shop"
+      },
+      "cercanos": [
+        {
+          "nombre": "Cruz Verde Calle 86",
+          "tipo": "farmacia",
+          "distancia_m": 26,
+          "lat": 11.0042181,
+          "lon": -74.8205195
+        },
+        {
+          "nombre": "Audiocom",
+          "tipo": "hearing_aids",
+          "distancia_m": 30,
+          "lat": 11.0038069,
+          "lon": -74.8202189
+        },
+        {
+          "nombre": "Plaza Lotus",
+          "tipo": "retail",
+          "distancia_m": 37,
+          "lat": 11.00371,
+          "lon": -74.8202916
+        },
+        {
+          "nombre": "San Miguel Arcangel Clínica",
+          "tipo": "clínica",
+          "distancia_m": 48,
+          "lat": 11.0036635,
+          "lon": -74.8201553
+        },
+        {
+          "nombre": "Clínica Mediesp",
+          "tipo": "clínica",
+          "distancia_m": 89,
+          "lat": 11.0034754,
+          "lon": -74.8197906
+        },
+        {
+          "nombre": "Park Inn by Radisson Diamond Barranquilla",
+          "tipo": "hotel",
+          "distancia_m": 107,
+          "lat": 11.0032527,
+          "lon": -74.8209533
+        },
+        {
+          "nombre": "Juan Valdez Café",
+          "tipo": "cafe",
+          "distancia_m": 135,
+          "lat": 11.0051638,
+          "lon": -74.819942
+        },
+        {
+          "nombre": "Helpharma",
+          "tipo": "farmacia",
+          "distancia_m": 140,
+          "lat": 11.004455,
+          "lon": -74.8215823
+        },
+        {
+          "nombre": "Coomeva Medicina Prepagada",
+          "tipo": "clínica",
+          "distancia_m": 141,
+          "lat": 11.0049922,
+          "lon": -74.8195295
+        },
+        {
+          "nombre": "Centro Medico Colsánitas",
+          "tipo": "clínica",
+          "distancia_m": 152,
+          "lat": 11.0053085,
+          "lon": -74.8198868
+        },
+        {
+          "nombre": "Cruz Verde Calle 84",
+          "tipo": "farmacia",
+          "distancia_m": 154,
+          "lat": 11.005185,
+          "lon": -74.8195922
+        },
+        {
+          "nombre": "Droguería Inglesa",
+          "tipo": "farmacia",
+          "distancia_m": 162,
+          "lat": 11.0053858,
+          "lon": -74.81984
+        }
+      ],
+      "destacado": {
+        "nombre": "San Miguel Arcangel Clínica",
+        "tipo": "clínica",
+        "distancia_m": 48,
+        "lat": 11.0036635,
+        "lon": -74.8201553
+      }
+    },
+    {
+      "rank": 10,
+      "idpunto": 8,
+      "lat": 11.006813,
+      "lon": -74.826075,
+      "subidas": 5154,
+      "bajadas": 6201,
+      "total": 11355,
+      "pct_total": 3.98,
+      "pct_acum": 90.74,
+      "lecturas": 18263,
+      "seg_aprox": 49,
+      "contexto": {
+        "direccion": "Calle 93, El Poblado, Barranquilla",
+        "calle": "Calle 93",
+        "numero": null,
+        "barrio": "El Poblado",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Arana",
+          "tipo": "restaurant",
+          "distancia_m": 30,
+          "lat": 11.0068931,
+          "lon": -74.8263416
+        },
+        {
+          "nombre": "Bancoomeva",
+          "tipo": "banco",
+          "distancia_m": 37,
+          "lat": 11.006481,
+          "lon": -74.8260324
+        },
+        {
+          "nombre": "Berlinas de la 93",
+          "tipo": "terminal de buses",
+          "distancia_m": 109,
+          "lat": 11.0058375,
+          "lon": -74.8261798
+        },
+        {
+          "nombre": "Rodizio",
+          "tipo": "restaurant",
+          "distancia_m": 121,
+          "lat": 11.0059192,
+          "lon": -74.826704
+        },
+        {
+          "nombre": "Dragon de Oro",
+          "tipo": "restaurant",
+          "distancia_m": 129,
+          "lat": 11.0056594,
+          "lon": -74.8262359
+        },
+        {
+          "nombre": "MarSol",
+          "tipo": "travel_agent",
+          "distancia_m": 136,
+          "lat": 11.0057504,
+          "lon": -74.8266876
+        },
+        {
+          "nombre": "Mac Pollo",
+          "tipo": "butcher",
+          "distancia_m": 155,
+          "lat": 11.0055865,
+          "lon": -74.8267561
+        },
+        {
+          "nombre": "Jardin Infantil Paso a Paso",
+          "tipo": "jardín infantil",
+          "distancia_m": 164,
+          "lat": 11.0057268,
+          "lon": -74.8270956
+        },
+        {
+          "nombre": "ZAHLE",
+          "tipo": "restaurant",
+          "distancia_m": 205,
+          "lat": 11.0050424,
+          "lon": -74.826611
+        },
+        {
+          "nombre": "McDonald's",
+          "tipo": "fast_food",
+          "distancia_m": 211,
+          "lat": 11.0051562,
+          "lon": -74.8270131
+        },
+        {
+          "nombre": "Juliao",
+          "tipo": "chemist",
+          "distancia_m": 218,
+          "lat": 11.0049321,
+          "lon": -74.8266303
+        },
+        {
+          "nombre": "Bancolombia",
+          "tipo": "banco",
+          "distancia_m": 227,
+          "lat": 11.0048042,
+          "lon": -74.8264683
+        }
+      ],
+      "destacado": {
+        "nombre": "Berlinas de la 93",
+        "tipo": "terminal de buses",
+        "distancia_m": 109,
+        "lat": 11.0058375,
+        "lon": -74.8261798
+      }
+    },
+    {
+      "rank": 11,
+      "idpunto": 127,
+      "lat": 11.033354,
+      "lon": -74.872069,
+      "subidas": 5351,
+      "bajadas": 4682,
+      "total": 10033,
+      "pct_total": 3.51,
+      "pct_acum": 94.25,
+      "lecturas": 54103,
+      "seg_aprox": 67,
+      "contexto": {
+        "direccion": "Calle 21, Adelta de Char II, La Playa",
+        "calle": "Calle 21",
+        "numero": null,
+        "barrio": "Adelta de Char II",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Parque Adelita de Char Etapa 2",
+          "tipo": "park",
+          "distancia_m": 114,
+          "lat": 11.0323518,
+          "lon": -74.8723001
+        },
+        {
+          "nombre": "Parque Adelita de Char",
+          "tipo": "park",
+          "distancia_m": 169,
+          "lat": 11.0322865,
+          "lon": -74.8709668
+        },
+        {
+          "nombre": "Parque Adelita de Char Etapa 3",
+          "tipo": "park",
+          "distancia_m": 278,
+          "lat": 11.0309058,
+          "lon": -74.8715512
+        },
+        {
+          "nombre": "Parque Adelita de Char Etapa 1",
+          "tipo": "park",
+          "distancia_m": 315,
+          "lat": 11.033039,
+          "lon": -74.8691993
+        },
+        {
+          "nombre": "Olímpica",
+          "tipo": "supermarket",
+          "distancia_m": 326,
+          "lat": 11.0320801,
+          "lon": -74.8693771
+        },
+        {
+          "nombre": "Olimpica",
+          "tipo": "retail",
+          "distancia_m": 334,
+          "lat": 11.0321022,
+          "lon": -74.8692856
+        },
+        {
+          "nombre": "Parqueadero",
+          "tipo": "parking",
+          "distancia_m": 352,
+          "lat": 11.0303268,
+          "lon": -74.871125
+        },
+        {
+          "nombre": "I.E.D Evelyn Abuchaibe de Daes",
+          "tipo": "colegio",
+          "distancia_m": 365,
+          "lat": 11.0314625,
+          "lon": -74.8693363
+        }
+      ],
+      "destacado": {
+        "nombre": "Parque Adelita de Char Etapa 2",
+        "tipo": "park",
+        "distancia_m": 114,
+        "lat": 11.0323518,
+        "lon": -74.8723001
+      }
+    },
+    {
+      "rank": 12,
+      "idpunto": 13,
+      "lat": 10.948901,
+      "lon": -74.774569,
+      "subidas": 1430,
+      "bajadas": 7273,
+      "total": 8703,
+      "pct_total": 3.05,
+      "pct_acum": 97.3,
+      "lecturas": 12605,
+      "seg_aprox": 21,
+      "contexto": {
+        "direccion": "Boulevard Simón Bolívar, Simón Bolívar, Barranquilla",
+        "calle": "Boulevard Simón Bolívar",
+        "numero": null,
+        "barrio": "Simón Bolívar",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Tienda/ Lugar de culto",
+          "tipo": "convenience",
+          "distancia_m": 62,
+          "lat": 10.9492553,
+          "lon": -74.7750065
+        },
+        {
+          "nombre": "baterias Magnifica",
+          "tipo": "variety_store",
+          "distancia_m": 70,
+          "lat": 10.9488412,
+          "lon": -74.7752043
+        },
+        {
+          "nombre": "Tienda de variedades",
+          "tipo": "variety_store",
+          "distancia_m": 74,
+          "lat": 10.9494581,
+          "lon": -74.7749408
+        },
+        {
+          "nombre": "IED del Barrio Simon Bolivar Sede 2",
+          "tipo": "colegio",
+          "distancia_m": 105,
+          "lat": 10.948206,
+          "lon": -74.7739166
+        },
+        {
+          "nombre": "Estación de Taxi Pumarejo",
+          "tipo": "taxi",
+          "distancia_m": 109,
+          "lat": 10.9498482,
+          "lon": -74.7743026
+        },
+        {
+          "nombre": "Tienda y panaderia Punto Rico",
+          "tipo": "convenience",
+          "distancia_m": 110,
+          "lat": 10.9498821,
+          "lon": -74.7747222
+        },
+        {
+          "nombre": "Compra venta Express",
+          "tipo": "pawnbroker",
+          "distancia_m": 125,
+          "lat": 10.948196,
+          "lon": -74.7754631
+        },
+        {
+          "nombre": "Tienda",
+          "tipo": "beverages",
+          "distancia_m": 137,
+          "lat": 10.9501263,
+          "lon": -74.7746551
+        },
+        {
+          "nombre": "IED Jose Marti",
+          "tipo": "colegio",
+          "distancia_m": 139,
+          "lat": 10.9478927,
+          "lon": -74.7738198
+        },
+        {
+          "nombre": "Taller de moto",
+          "tipo": "car_repair",
+          "distancia_m": 141,
+          "lat": 10.9477194,
+          "lon": -74.7750299
+        },
+        {
+          "nombre": "Alcaldía Local Suroriente",
+          "tipo": "entidad de gobierno",
+          "distancia_m": 146,
+          "lat": 10.9501856,
+          "lon": -74.7742972
+        },
+        {
+          "nombre": "Variedades",
+          "tipo": "variety_store",
+          "distancia_m": 153,
+          "lat": 10.9502771,
+          "lon": -74.7745492
+        }
+      ],
+      "destacado": {
+        "nombre": "IED del Barrio Simon Bolivar Sede 2",
+        "tipo": "colegio",
+        "distancia_m": 105,
+        "lat": 10.948206,
+        "lon": -74.7739166
+      }
+    },
+    {
+      "rank": 13,
+      "idpunto": 2,
+      "lat": 10.88883,
+      "lon": -74.805112,
+      "subidas": 3793,
+      "bajadas": 3804,
+      "total": 7597,
+      "pct_total": 2.66,
+      "pct_acum": 99.96,
+      "lecturas": 226776,
+      "seg_aprox": 133,
+      "contexto": {
+        "direccion": "Calle 65, Los Loteros, Soledad",
+        "calle": "Calle 65",
+        "numero": "3-75",
+        "barrio": "Los Loteros",
+        "tipo_via": "amenity"
+      },
+      "cercanos": [
+        {
+          "nombre": "Sobusa S.A.",
+          "tipo": "terminal de buses",
+          "distancia_m": 23,
+          "lat": 10.8887145,
+          "lon": -74.804941
+        },
+        {
+          "nombre": "Socodis",
+          "tipo": "car_repair",
+          "distancia_m": 88,
+          "lat": 10.8891483,
+          "lon": -74.8043756
+        },
+        {
+          "nombre": "EDS La Sobusa",
+          "tipo": "fuel",
+          "distancia_m": 92,
+          "lat": 10.8884094,
+          "lon": -74.8043871
+        },
+        {
+          "nombre": "EDS La Inmaculada",
+          "tipo": "fuel",
+          "distancia_m": 211,
+          "lat": 10.8894583,
+          "lon": -74.8032876
+        },
+        {
+          "nombre": "CAI - Granabastos",
+          "tipo": "policía",
+          "distancia_m": 227,
+          "lat": 10.8879587,
+          "lon": -74.8032341
+        },
+        {
+          "nombre": "Centro Educativo Ramon Navarro Donado",
+          "tipo": "colegio",
+          "distancia_m": 239,
+          "lat": 10.887278,
+          "lon": -74.8066319
+        },
+        {
+          "nombre": "Olímpica - La Central",
+          "tipo": "supermarket",
+          "distancia_m": 273,
+          "lat": 10.8912126,
+          "lon": -74.8045014
+        },
+        {
+          "nombre": "Motel La Luna",
+          "tipo": "motel",
+          "distancia_m": 279,
+          "lat": 10.8895918,
+          "lon": -74.8026804
+        },
+        {
+          "nombre": "Tienda Donde Mejía",
+          "tipo": "convenience",
+          "distancia_m": 287,
+          "lat": 10.8913227,
+          "lon": -74.8057947
+        },
+        {
+          "nombre": "Tienda La Gran Parada",
+          "tipo": "convenience",
+          "distancia_m": 297,
+          "lat": 10.8913204,
+          "lon": -74.8060878
+        },
+        {
+          "nombre": "Panaderia La Casa del Pudin",
+          "tipo": "bakery",
+          "distancia_m": 316,
+          "lat": 10.8913105,
+          "lon": -74.8065314
+        },
+        {
+          "nombre": "Liceo Metropolitano Teresa De Jesús",
+          "tipo": "colegio",
+          "distancia_m": 319,
+          "lat": 10.8916007,
+          "lon": -74.8058806
+        }
+      ],
+      "destacado": {
+        "nombre": "Sobusa S.A.",
+        "tipo": "terminal de buses",
+        "distancia_m": 23,
+        "lat": 10.8887145,
+        "lon": -74.804941
+      }
+    },
+    {
+      "rank": 14,
+      "idpunto": 4,
+      "lat": 10.92363,
+      "lon": -74.797001,
+      "subidas": 54,
+      "bajadas": 61,
+      "total": 115,
+      "pct_total": 0.04,
+      "pct_acum": 100.0,
+      "lecturas": 249,
+      "seg_aprox": 121,
+      "contexto": {
+        "direccion": "Avenida Circunvalar, Las Trinitarias, Soledad",
+        "calle": "Avenida Circunvalar",
+        "numero": null,
+        "barrio": "Las Trinitarias",
+        "tipo_via": "highway"
+      },
+      "cercanos": [
+        {
+          "nombre": "Jamar",
+          "tipo": "furniture",
+          "distancia_m": 45,
+          "lat": 10.9232351,
+          "lon": -74.7969188
+        },
+        {
+          "nombre": "C.C. Metropolitano",
+          "tipo": "centro comercial",
+          "distancia_m": 80,
+          "lat": 10.9243066,
+          "lon": -74.7967446
+        },
+        {
+          "nombre": "Estación de Taxi - Metropolitano",
+          "tipo": "taxi",
+          "distancia_m": 125,
+          "lat": 10.9238168,
+          "lon": -74.7981258
+        },
+        {
+          "nombre": "EDS Circunvalar",
+          "tipo": "fuel",
+          "distancia_m": 136,
+          "lat": 10.9231729,
+          "lon": -74.7958475
+        },
+        {
+          "nombre": "Nevada - Transportes Monterrey",
+          "tipo": "terminal de buses",
+          "distancia_m": 167,
+          "lat": 10.9225756,
+          "lon": -74.7959151
+        },
+        {
+          "nombre": "Parque Las Gaviotas II",
+          "tipo": "park",
+          "distancia_m": 226,
+          "lat": 10.9255736,
+          "lon": -74.7976027
+        },
+        {
+          "nombre": "Parque Las Trinitarias",
+          "tipo": "park",
+          "distancia_m": 236,
+          "lat": 10.9216974,
+          "lon": -74.7961037
+        },
+        {
+          "nombre": "Billares La Selección",
+          "tipo": "pub",
+          "distancia_m": 273,
+          "lat": 10.9217706,
+          "lon": -74.7986355
+        },
+        {
+          "nombre": "La Charanga",
+          "tipo": "pub",
+          "distancia_m": 281,
+          "lat": 10.921625,
+          "lon": -74.7985748
+        },
+        {
+          "nombre": "Billares Casa Grande",
+          "tipo": "pub",
+          "distancia_m": 300,
+          "lat": 10.9214416,
+          "lon": -74.7986116
+        },
+        {
+          "nombre": "Parque Los Balcances",
+          "tipo": "park",
+          "distancia_m": 339,
+          "lat": 10.9266215,
+          "lon": -74.796408
+        },
+        {
+          "nombre": "Polideportivo Las Trinitarias",
+          "tipo": "park",
+          "distancia_m": 353,
+          "lat": 10.9216133,
+          "lon": -74.7945069
+        }
+      ],
+      "destacado": {
+        "nombre": "C.C. Metropolitano",
+        "tipo": "centro comercial",
+        "distancia_m": 80,
+        "lat": 10.9243066,
+        "lon": -74.7967446
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+id_estacionalidad,proceso,estacionalidad,nombre,descripcion
+1,sobusa,FESTIVO_NACIONAL,Todos los Santos,Festivo nacional trasladado por Ley Emiliani
+2,sobusa,FESTIVO_NACIONAL,Independencia de Cartagena,Festivo nacional trasladado por Ley Emiliani
+3,sobusa,FESTIVO_NACIONAL,Inmaculada Concepción,Festivo nacional
+4,sobusa,FESTIVO_NACIONAL,Navidad,Festivo nacional
+5,sobusa,FESTIVO_NACIONAL,Año Nuevo,Festivo nacional
+6,sobusa,FESTIVO_NACIONAL,Día de los Reyes Magos,Festivo nacional trasladado por Ley Emiliani
+7,sobusa,FIESTA_ATLANTICO,Precarnaval y Carnaval de Barranquilla,Temporada oficial del Carnaval de Barranquilla
+8,sobusa,FIESTA_ATLANTICO,Carnaval de Barranquilla - Días centrales,Días principales del Carnaval de Barranquilla
+10,sobusa,TEMPORADA_NACIONAL,Semana Santa,Temporada religiosa y de alta movilidad
+9,sobusa,FESTIVO_NACIONAL,Día de San José,Festivo nacional trasladado por Ley Emiliani
+11,sobusa,FESTIVO_NACIONAL,Jueves Santo,Festivo nacional
+12,sobusa,FESTIVO_NACIONAL,Viernes Santo,Festivo nacional
+16,sobusa,FESTIVO_NACIONAL,Dia del trabajo,Festivo nacional
+17,sobusa,FESTIVO_NACIONAL,Ascensión del Señor,Festivo nacional
+18,sobusa,FESTIVO_NACIONAL,Corpus Christi,Festivo nacional
+19,sobusa,FESTIVO_NACIONAL,Sagrado Corazón de Jesús,Festivo nacional
+20,sobusa,FESTIVO_NACIONAL,San Pedro y San Pablo,Festivo nacional
+21,sobusa,FESTIVO_NACIONAL,Día de la Independencia de Colombia,Festivo nacional
+22,sobusa,FESTIVO_NACIONAL,Batalla de Boyacá,Festivo nacional
+23,sobusa,FESTIVO_NACIONAL,Asunción de la Virgen,Festivo nacional
+24,sobusa,FESTIVO_NACIONAL,Día de la Raza,Festivo nacional
+25,sobusa,DIAS_CORRIENTES,Dias corrientes del año,Dias corrientes del año
+26,sobusa,FESTIVO_NACIONAL,Día de Nuestra Señora del Rosario de Chiquinquirá,Festivo nacional trasladado por Ley Emiliani
+27,sobusa,FIESTAS_PATRONALES,Fiestas de la Virgen del Carmen,"Con motivo de las festividades de la virgen del Carmen, la Alcaldía Municipal  de Puerto Colombia, celebrará este 15 y 16 de julio en la plaza principal la conmemoración a su patrona."

@@ -1,0 +1,299 @@
+{
+  "id_ruta": 2,
+  "nombre_ruta": "14 15",
+  "generado_en": "2026-11-20T18:27:19+00:00",
+  "fuente": {
+    "base_de_datos": "dataset",
+    "tabla": "public.conteo_pasajeros_destino + progvehiculos",
+    "mapeo_columnas": {
+      "id_ruta": "idruta",
+      "id_punto": "idpunto",
+      "latitud": "latitud",
+      "longitud": "longitud"
+    }
+  },
+  "total_puntos": 14,
+  "puntos_con_coordenadas": 14,
+  "puntos": [
+    {
+      "id_punto": "2",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.88881445452446,
+      "longitud": -74.80509382650912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80509382650912,
+          10.88881445452446
+        ]
+      },
+      "extras": {
+        "subidas": "538",
+        "bajadas": "572",
+        "eventos": "26157"
+      },
+      "orden": 1
+    },
+    {
+      "id_punto": "3",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.906526740499274,
+      "longitud": -74.8003524837017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8003524837017,
+          10.906526740499274
+        ]
+      },
+      "extras": {
+        "subidas": "516",
+        "bajadas": "1336",
+        "eventos": "6289"
+      },
+      "orden": 2
+    },
+    {
+      "id_punto": "4",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.92365672727273,
+      "longitud": -74.79700372727272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79700372727272,
+          10.92365672727273
+        ]
+      },
+      "extras": {
+        "subidas": "41",
+        "bajadas": "43",
+        "eventos": "143"
+      },
+      "orden": 3
+    },
+    {
+      "id_punto": "5",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.946892030513297,
+      "longitud": -74.77577663633119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77577663633119,
+          10.946892030513297
+        ]
+      },
+      "extras": {
+        "subidas": "2747",
+        "bajadas": "2973",
+        "eventos": "11241"
+      },
+      "orden": 4
+    },
+    {
+      "id_punto": "6",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.953726259605398,
+      "longitud": -74.79529991484938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79529991484938,
+          10.953726259605398
+        ]
+      },
+      "extras": {
+        "subidas": "1209",
+        "bajadas": "1419",
+        "eventos": "4815"
+      },
+      "orden": 5
+    },
+    {
+      "id_punto": "7",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.975066479596377,
+      "longitud": -74.80111878186673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80111878186673,
+          10.975066479596377
+        ]
+      },
+      "extras": {
+        "subidas": "1627",
+        "bajadas": "2140",
+        "eventos": "6739"
+      },
+      "orden": 6
+    },
+    {
+      "id_punto": "8",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.00679297180617,
+      "longitud": -74.82606506784145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82606506784145,
+          11.00679297180617
+        ]
+      },
+      "extras": {
+        "subidas": "693",
+        "bajadas": "733",
+        "eventos": "2270"
+      },
+      "orden": 7
+    },
+    {
+      "id_punto": "9",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.026774835162142,
+      "longitud": -74.86810288124843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86810288124843,
+          11.026774835162142
+        ]
+      },
+      "extras": {
+        "subidas": "2160",
+        "bajadas": "1972",
+        "eventos": "8202"
+      },
+      "orden": 8
+    },
+    {
+      "id_punto": "11",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.01010737192837,
+      "longitud": -74.82709627905034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82709627905034,
+          11.01010737192837
+        ]
+      },
+      "extras": {
+        "subidas": "1161",
+        "bajadas": "452",
+        "eventos": "2401"
+      },
+      "orden": 9
+    },
+    {
+      "id_punto": "12",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.004068291531816,
+      "longitud": -74.82039058279398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82039058279398,
+          11.004068291531816
+        ]
+      },
+      "extras": {
+        "subidas": "1180",
+        "bajadas": "370",
+        "eventos": "3708"
+      },
+      "orden": 10
+    },
+    {
+      "id_punto": "13",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.949475338299193,
+      "longitud": -74.77430457541902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77430457541902,
+          10.949475338299193
+        ]
+      },
+      "extras": {
+        "subidas": "171",
+        "bajadas": "984",
+        "eventos": "1611"
+      },
+      "orden": 11
+    },
+    {
+      "id_punto": "35",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.019133434546154,
+      "longitud": -74.86653707209548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86653707209548,
+          11.019133434546154
+        ]
+      },
+      "extras": {
+        "subidas": "3786",
+        "bajadas": "2760",
+        "eventos": "20778"
+      },
+      "orden": 12
+    },
+    {
+      "id_punto": "127",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 11.033769348451882,
+      "longitud": -74.87179881446552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87179881446552,
+          11.033769348451882
+        ]
+      },
+      "extras": {
+        "subidas": "784",
+        "bajadas": "811",
+        "eventos": "8268"
+      },
+      "orden": 13
+    },
+    {
+      "id_punto": "221",
+      "nombre": null,
+      "secuencia": null,
+      "latitud": 10.899139794546704,
+      "longitud": -74.80308132858637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80308132858637,
+          10.899139794546704
+        ]
+      },
+      "extras": {
+        "subidas": "2482",
+        "bajadas": "3183",
+        "eventos": "11516"
+      },
+      "orden": 14
+    }
+  ]
+}

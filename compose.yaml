@@ -1,0 +1,28 @@
+
+services:
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dashv3-api
+    command: python -m uvicorn api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  dash:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dashv3-app
+    command: python app.py
+    ports:
+      - "8050:8050"
+    environment:
+      API_URL: http://api:8000
+    env_file:
+      - .env
+    depends_on:
+      - api
+    restart: unless-stopped

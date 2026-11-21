@@ -1,0 +1,11 @@
+# Credenciales y secretos
+.env
+.env.*
+!.env.example
+credentials/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/

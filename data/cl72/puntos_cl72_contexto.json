@@ -1,0 +1,414 @@
+{
+  "ruta": "CL 72",
+  "idruta": 21,
+  "radio_m": 400,
+  "contexto": [
+    {
+      "idpunto": 65,
+      "contexto": {
+        "direccion": "Carrera 24, San Felipe, Localidad Suroccidente, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 080012, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 35,
+      "contexto": {
+        "direccion": "Carrera 30, Ciudad del Mar, Puerto Colombia, Atlántico, RAP Caribe, 081007, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 14,
+      "contexto": {
+        "direccion": "Calle 36B, El Campito, Localidad Suroriente, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 083002, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 9,
+      "contexto": {
+        "direccion": "Calle 14, Villa Norte, La Playa, Barranquilla, Atlántico, RAP Caribe, 081007, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 320,
+      "contexto": {
+        "direccion": "Calle 67, Hacienda San Antonio, Soledad, Atlántico, RAP Caribe, 083010, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 3,
+      "contexto": {
+        "direccion": "Avenida Murillo, Nuevo Milenio, Soledad, Atlántico, RAP Caribe, 083010, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 127,
+      "contexto": {
+        "direccion": "Carrera 10, Adelta de Char II, La Playa, Barranquilla, Atlántico, RAP Caribe, 081007, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 2,
+      "contexto": {
+        "direccion": "Sobusa S.A., 3-75, Calle 65, Los Loteros, Soledad, Atlántico, RAP Caribe, 083010, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 11,
+      "contexto": {
+        "direccion": "Carrera 51B, El Poblado, Localidad Riomar, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 080020, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 61,
+      "contexto": {
+        "direccion": "Calle 71, Olaya, Localidad Suroccidente, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 080016, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 64,
+      "contexto": {
+        "direccion": "Hotel Country Internacional, 75, Carrera 52, Barrio América, Localidad Norte - Centro Histórico, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 080001, Colombia"
+      },
+      "cercanos": [
+        {
+          "nombre": "Bancolombia",
+          "tipo": "bank",
+          "distancia_m": 29
+        },
+        {
+          "nombre": "Hotel Country Internacional",
+          "tipo": "hotel",
+          "distancia_m": 67
+        },
+        {
+          "nombre": "ara",
+          "tipo": "supermarket",
+          "distancia_m": 85
+        },
+        {
+          "nombre": "José de la Peña Panadero",
+          "tipo": "cafe",
+          "distancia_m": 104
+        },
+        {
+          "nombre": "Banco de Occidente",
+          "tipo": "bank",
+          "distancia_m": 116
+        },
+        {
+          "nombre": "La Vecchia Signora Restaurante & Cava",
+          "tipo": "restaurant",
+          "distancia_m": 117
+        },
+        {
+          "nombre": "Banco Caja Social",
+          "tipo": "bank",
+          "distancia_m": 135
+        },
+        {
+          "nombre": "Santa Sazón - Resto Bar",
+          "tipo": "restaurant",
+          "distancia_m": 139
+        },
+        {
+          "nombre": "Claro",
+          "tipo": "telecommunication",
+          "distancia_m": 140
+        },
+        {
+          "nombre": "Multibank",
+          "tipo": "bank",
+          "distancia_m": 148
+        },
+        {
+          "nombre": "AUDIFARMA",
+          "tipo": "pharmacy",
+          "distancia_m": 156
+        },
+        {
+          "nombre": "BBVA",
+          "tipo": "bank",
+          "distancia_m": 162
+        },
+        {
+          "nombre": "Tigo",
+          "tipo": "mobile_phone",
+          "distancia_m": 170
+        },
+        {
+          "nombre": "Financiero Comultrasan",
+          "tipo": "bank",
+          "distancia_m": 174
+        },
+        {
+          "nombre": "La Popular Tienda",
+          "tipo": "pub",
+          "distancia_m": 183
+        },
+        {
+          "nombre": "La puerta de abajo",
+          "tipo": "nightclub",
+          "distancia_m": 187
+        },
+        {
+          "nombre": "Mobil - EDS Alto Prado",
+          "tipo": "fuel",
+          "distancia_m": 203
+        },
+        {
+          "nombre": "DHL Express",
+          "tipo": "post_office",
+          "distancia_m": 210
+        },
+        {
+          "nombre": "KFC - ACQUA",
+          "tipo": "fast_food",
+          "distancia_m": 211
+        },
+        {
+          "nombre": "El Churrasquito",
+          "tipo": "restaurant",
+          "distancia_m": 231
+        },
+        {
+          "nombre": "Amicrespa",
+          "tipo": "hairdresser",
+          "distancia_m": 235
+        },
+        {
+          "nombre": "Banco AV Villas",
+          "tipo": "bank",
+          "distancia_m": 246
+        },
+        {
+          "nombre": "Esso - EDS - Prado",
+          "tipo": "fuel",
+          "distancia_m": 247
+        },
+        {
+          "nombre": "Gazel",
+          "tipo": "fuel",
+          "distancia_m": 256
+        },
+        {
+          "nombre": "Banco de Bogotá",
+          "tipo": "bank",
+          "distancia_m": 260
+        },
+        {
+          "nombre": "Davivienda",
+          "tipo": "bank",
+          "distancia_m": 261
+        },
+        {
+          "nombre": "Suministros EDS Prado",
+          "tipo": "car_parts",
+          "distancia_m": 262
+        },
+        {
+          "nombre": "Restaurante Jardines De Confucio",
+          "tipo": "restaurant",
+          "distancia_m": 264
+        },
+        {
+          "nombre": "Turkana Spa",
+          "tipo": "massage",
+          "distancia_m": 266
+        },
+        {
+          "nombre": "#todomono",
+          "tipo": "clothes",
+          "distancia_m": 271
+        },
+        {
+          "nombre": "Parroquia San Jeronimo",
+          "tipo": "place_of_worship",
+          "distancia_m": 292
+        },
+        {
+          "nombre": "Paisarroz wok",
+          "tipo": "restaurant",
+          "distancia_m": 305
+        },
+        {
+          "nombre": "Fuente Mazda",
+          "tipo": "fountain",
+          "distancia_m": 308
+        },
+        {
+          "nombre": "Efecty",
+          "tipo": "bank",
+          "distancia_m": 312
+        },
+        {
+          "nombre": "Mazda",
+          "tipo": "car",
+          "distancia_m": 317
+        },
+        {
+          "nombre": "Banco de Bogotá",
+          "tipo": "bank",
+          "distancia_m": 318
+        },
+        {
+          "nombre": "BBVA",
+          "tipo": "bank",
+          "distancia_m": 320
+        },
+        {
+          "nombre": "Asados y Sancochos de la 74",
+          "tipo": "restaurant",
+          "distancia_m": 326
+        },
+        {
+          "nombre": "CAI - Harvi",
+          "tipo": "police",
+          "distancia_m": 329
+        },
+        {
+          "nombre": "Cafe Con Leche",
+          "tipo": "cafe",
+          "distancia_m": 336
+        },
+        {
+          "nombre": "Canta Gallo",
+          "tipo": "karaoke_box",
+          "distancia_m": 347
+        },
+        {
+          "nombre": "Noa Sushi & Robata",
+          "tipo": "restaurant",
+          "distancia_m": 370
+        },
+        {
+          "nombre": "La Patrona comida mexicana",
+          "tipo": "restaurant",
+          "distancia_m": 377
+        },
+        {
+          "nombre": "Cruz Verde",
+          "tipo": "chemist",
+          "distancia_m": 380
+        },
+        {
+          "nombre": "Helena",
+          "tipo": "restaurant",
+          "distancia_m": 390
+        },
+        {
+          "nombre": "EcoSiente",
+          "tipo": "convenience",
+          "distancia_m": 393
+        },
+        {
+          "nombre": "Mac Center",
+          "tipo": "electronics",
+          "distancia_m": 393
+        },
+        {
+          "nombre": "Droguerías Cruz Verde",
+          "tipo": "chemist",
+          "distancia_m": 395
+        },
+        {
+          "nombre": "Mercadería Justo & Bueno",
+          "tipo": "supermarket",
+          "distancia_m": 396
+        },
+        {
+          "nombre": "Carulla",
+          "tipo": "supermarket",
+          "distancia_m": 397
+        },
+        {
+          "nombre": "La Rebaja Plus",
+          "tipo": "chemist",
+          "distancia_m": 399
+        },
+        {
+          "nombre": "Olímpica",
+          "tipo": "supermarket",
+          "distancia_m": 400
+        },
+        {
+          "nombre": "Jumbo Altos del Prado",
+          "tipo": "supermarket",
+          "distancia_m": 406
+        },
+        {
+          "nombre": "C. C. Habitad",
+          "tipo": "mall",
+          "distancia_m": 419
+        },
+        {
+          "nombre": "C.C. Villa Country",
+          "tipo": "mall",
+          "distancia_m": 423
+        },
+        {
+          "nombre": "Salón de Eventos Jumbo",
+          "tipo": "community_centre",
+          "distancia_m": 451
+        }
+      ],
+      "destacado": {
+        "nombre": "Bancolombia",
+        "tipo": "bank",
+        "distancia_m": 29
+      }
+    },
+    {
+      "idpunto": 62,
+      "contexto": {
+        "direccion": null
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 4,
+      "contexto": {
+        "direccion": "Avenida Circunvalar, Ciudadela 20 de Julio, Localidad Metropolitana, Perímetro Urbano Barranquilla, Barranquilla, Atlántico, RAP Caribe, 083001, Colombia"
+      },
+      "cercanos": [],
+      "destacado": null
+    },
+    {
+      "idpunto": 221,
+      "contexto": {
+        "direccion": null
+      },
+      "cercanos": [],
+      "destacado": null,
+      "consulta_osm": "pendiente"
+    },
+    {
+      "idpunto": 317,
+      "contexto": {
+        "direccion": null
+      },
+      "cercanos": [],
+      "destacado": null,
+      "consulta_osm": "pendiente"
+    }
+  ]
+}
